@@ -17,9 +17,6 @@
       <li>建立StreamReader和StreamWriter串流物件</li>
       <li>FileInfo物件</li>
       <li>Ajax</li>
-      <li>撰寫實體類別(Entity Class)建置資料表</li>
-      <li>為實體類別新增CRUD動作</li>
-      <li>建立一對多關係</li>
     </ul>
   </div>
   <div>
@@ -34,8 +31,6 @@
     <ul>
       <li>理解非同步HTTP請求</li>
       <li>了解Ajax應用程式架構</li>
-      <li>理解Java企業應用程式存取資料庫系統架構</li>
-      <li>理解MVC觀念</li>
     </ul>
   </div>
 </body>
